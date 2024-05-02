@@ -1,0 +1,11 @@
+.summary-author {
+    max-width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.summary-column {
+    max-width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
